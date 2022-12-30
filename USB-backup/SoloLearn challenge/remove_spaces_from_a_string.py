@@ -1,0 +1,1 @@
+while True: print("".join((input("insert something: ")).split()),"\n")
